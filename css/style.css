@@ -1,0 +1,55 @@
+body, html {
+  min-height: 100%;
+  margin: 0px;
+  padding: 0px;
+  background: url(../img/dot_bg.png) repeat;
+  text-align: center;
+}
+body {
+  padding-top: 40px;
+}
+h2 {
+  font-size: 16px;
+  margin-top: 26px;
+}
+h3 {
+  font-size: 26px;
+  margin-top: 26px;
+}
+.container {
+  width: 800px;
+  margin: 0px auto 20px;
+  background: #fff;
+  font-family: Arial;
+  padding: 20px 40px 40px 40px;
+  border: 1px solid #DADADA;
+  line-height: 20px;
+  text-align: justify;
+}
+.container h1 {
+  color: #FFCF40;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.contain {
+  max-width: 800px;
+  margin: 0px auto 20px;
+  background: #fff;
+  font-family: Arial;
+  padding: 20px 40px 40px 40px;
+  border: 1px solid #DADADA;
+  line-height: 20px;
+}
+.contain span {
+  color: #E32636;
+}
+.italics {
+  font-style: italic;
+  text-align: center;
+  margin: 40px 0 0 0;
+  font-weight: bold;
+}
+.note {
+  font-size: 18px;
+  color: #7ec04c;
+}
